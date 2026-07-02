@@ -1,0 +1,23 @@
+{
+  "name": "open-abap-parallel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "abaplint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-abap/open-abap-parallel.git"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@abaplint/cli": "^2.119.53"
+  },
+  "bugs": {
+    "url": "https://github.com/open-abap/open-abap-parallel/issues"
+  },
+  "homepage": "https://github.com/open-abap/open-abap-parallel#readme"
+}
